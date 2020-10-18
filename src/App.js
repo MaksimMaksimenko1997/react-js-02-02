@@ -9,8 +9,6 @@ import Container from './components/Container/Container';
 class App extends Component {
   state = {
     contacts: [],
-    name: '',
-    number: '',
     filter: '',
   };
 
